@@ -9,7 +9,7 @@ Este repositorio reúne ejercicios de maquetación web con CSS Grid. Cada carpet
 | [`practica-1/`](./practica-1/) | CSS Grid | Organiza cuatro cajas en una cuadrícula mediante filas, columnas y áreas de grid. |
 | [`practica-2/`](./practica-2/) | Posicionamiento con CSS Grid | Distribuye ocho cajas y practica la ubicación y expansión de elementos dentro de la cuadrícula. |
 | [`media-query/`](./media-query/) | Diseño responsivo | Adapta una página con encabezado, contenido, barra lateral, widgets y pie de página a distintos tamaños de pantalla. |
-
+| [`tarjetas-artistas/`](./tarjetas-artistas/) | Tarjetas con BEM y `clip-path` | Tarjetas interactivas de Myke Towers y Paulo Londra utilizando la metodología BEM, iconos de FontAwesome y recortes geométricos. |
 Cada práctica incluye un `README.md` con una explicación más detallada de sus objetivos y estilos.
 
 ## Cómo abrir los ejercicios
